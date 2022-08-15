@@ -7,11 +7,7 @@
 - 📫 Meu Email: brakinveste@gmail.com
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
-<style>
-  img {display: flex;
-            flex-direction: row;
-            justify-content: center;}
-</style>
+
   
   
 <div align="center">
@@ -30,13 +26,13 @@
 </div>
 <div align="center"> 
      
-  <div class=image>
-    <img align="center" alt="Rafa-Csharp" height="350em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
-  </div>
-  <div class=image>  
-    <img align="center" alt="Rafa-Csharp" height="350em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
-  </div>
-  <div class=image>  
-    <img align="center" alt="Rafa-Csharp" height="350em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
-  </div>
+  
+    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
+  
+  
+    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
+ 
+  
+    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
+  
 </div>
