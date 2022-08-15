@@ -8,7 +8,7 @@
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
 <style>
-  .image {display: flex;
+  img {display: flex;
             flex-direction: row;
             justify-content: center;}
 </style>
