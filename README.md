@@ -13,7 +13,7 @@
 <div align="center">
   <hr size="10">
   <a href="https://github.com/Brakinveste">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Brakinveste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100px" width="50px" src="https://github-readme-stats.vercel.app/api?username=Brakinveste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakinveste&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
