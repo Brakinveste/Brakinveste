@@ -11,7 +11,7 @@
   
   
 <div align="center">
-  <hr size="15"
+  <hr size="10">
   <a href="https://github.com/Brakinveste">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brakinveste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakinveste&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,9 +27,9 @@
 </div>
 
 <div align="center"> 
-  <hr size="15">
+  <hr size="10">
     <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
   <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
-  <hr size="15"
+  <hr size="10">
 </div>
