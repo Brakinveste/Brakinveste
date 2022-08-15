@@ -7,7 +7,7 @@
 - 📫 Meu Email: brakinveste@gmail.com
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
-
+<hr size="15"
   
   
 <div align="center">
@@ -24,6 +24,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/Brakinveste/Brakinveste/blob/main/Garota%20Armadura%20-%20Vol%200%20-%20055.jpg">
 </div>
+<hr size="15"
 <div align="center"> 
     <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
