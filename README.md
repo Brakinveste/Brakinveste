@@ -27,7 +27,7 @@
 </div>
 
 <div align="center"> 
-  <hr size="15"
+  <hr size="15">
     <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
   <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
