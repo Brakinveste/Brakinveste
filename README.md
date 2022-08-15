@@ -1,11 +1,11 @@
 ### Hello there, Obin Wan! 👋
 
 
-- 🔭 Olá, eu sou Bruno Ferreira
-- 🌱 Estou cursando a NewTab Academy para DEV Full Stack
-- 👯 Estou buscando uma vaga para colaborar, aprender e crescer
+- 😁 Olá, eu sou Bruno Ferreira
+- 😍 Estou cursando a NewTab Academy para DEV Full Stack
+- 👍 Buscando uma vaga para colaborar, aprender e crescer
 - 📫 Meu Email: brakinveste@gmail.com
-- 😄 Pronomes: Ele / Dele
+- 🧔 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
 
   
@@ -18,10 +18,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | 
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
   
   
   
