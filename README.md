@@ -7,10 +7,11 @@
 - 📫 Meu Email: brakinveste@gmail.com
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
-<hr size="15"
+
   
   
 <div align="center">
+  <hr size="15"
   <a href="https://github.com/Brakinveste">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brakinveste&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakinveste&layout=compact&langs_count=7&theme=dracula"/>
