@@ -25,14 +25,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/Brakinveste/Brakinveste/blob/main/Garota%20Armadura%20-%20Vol%200%20-%20055.jpg">
 </div>
 <div align="center"> 
-     
-  
     <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
-  
-  
-    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
- 
-  
-    <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
+   <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
+  <img align="center" alt="Rafa-Csharp" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
   
 </div>
