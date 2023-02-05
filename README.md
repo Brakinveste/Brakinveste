@@ -19,6 +19,15 @@
   
   <br>
   
+  <div align="center"> 
+  <hr size="10">
+    <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
+   <img align="center" alt="Aprender" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/aprender.jpg">
+  <img align="center" alt="Crescer" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/crescer.jpg">
+  <hr size="10">
+</div>
+  
+  
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <img align="center" alt="HTML5" 
        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
