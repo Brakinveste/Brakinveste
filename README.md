@@ -30,8 +30,11 @@
 </div>
   
   
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <a align="center" alt="HTML5" 
+<div align="center" style="display: inline;">
+  <a href="https://www.linkedin.com/in/bruno-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/bruno-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  
+  <img align="center" alt="HTML5" 
        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
   
   <a align="center" alt="CSS"
