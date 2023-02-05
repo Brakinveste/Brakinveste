@@ -8,7 +8,10 @@
 - 🧔 Pronomes: Ele / Dele
 - ⚡ Fun fact: Amigos e colegas me chamam de "Brak", apelido de looooonga data...
 
-  
+  <div align="center">
+    
+  <a href="https://www.linkedin.com/in/bruno-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ </div>
   
 <div align="center" style="display: inline">
   <hr size="10">
@@ -19,23 +22,15 @@
   
   <br>
   
-  <div align="center" style="display: inline">
-  <hr size="10">
-     <img align="center" alt="HTML5" 
+
+  
+  
+<div align="center" style="display: inline;">
+  <img align="center" alt="HTML5" 
        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   
   <img align="center" alt="CSS"
        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <hr size="10">
-</div>
-  
-  
-<div align="center" style="display: inline;">
-  <a href="" target="_blank"><img align="center" alt="CSS"
-       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> 
-  
-  <a href=""><img align="center" alt="HTML5" 
-       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> 
   
   
   
@@ -61,10 +56,7 @@
   
 <br>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/bruno-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/bruno-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- </div>
+
   
 <div align="center"> 
   <hr size="10">
