@@ -23,7 +23,7 @@
   <img align="center" alt="Brak-CSS" height="50" width="50" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
   <img align="center" alt="Brak-Node" height="50" width="50" 
-       src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor"> |
+       src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> |
   
   <img align="center" alt="Brak-Js" height="50" width="50" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | 
