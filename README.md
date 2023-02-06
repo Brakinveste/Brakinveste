@@ -37,7 +37,7 @@
 </div>
 <br>
 <div>  
-  <div align="center" style="width: 70px; color: white; background-color: #00000f;">Design</div>
+  <div align="center" style="width: 70px; color: #8e8e8e; background-color: #00000f;">Design</div>
  </div> 
 <div align="center"> 
   <hr size="10">
