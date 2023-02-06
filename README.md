@@ -37,7 +37,9 @@
 </div>
 <br>
 <div>  
-  <div align="center" style="width: 70px; color: #8e8e8e; background-color: #00000f;">Design</div>
+  <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-designer.jpg">
+  <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uxdesigner.jpg">
+  <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uidesigner.jpg">
  </div> 
 <div align="center"> 
   <hr size="10">
