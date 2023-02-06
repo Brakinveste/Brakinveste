@@ -36,10 +36,10 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div>
 <br>
-<div>  
-  <img align="center" alt="Colaborar" height="70px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-designer.jpg">
-  <img align="center" alt="Colaborar" height="70px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uxdesigner.jpg">
-  <img align="center" alt="Colaborar" height="70px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uidesigner.jpg">
+<div align="center">  
+  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-designer.jpg">
+  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uxdesigner.jpg">
+  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uidesigner.jpg">
  </div> 
 <div align="center"> 
   <hr size="10">
