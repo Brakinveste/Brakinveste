@@ -37,9 +37,9 @@
 </div>
 <br>
 <div align="center">  
-  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-designer.jpg">
-  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uxdesigner.jpg">
-  <img align="center" alt="Colaborar" height="30px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uidesigner.jpg">
+  <img align="center" alt="Colaborar" height="25px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-designer.jpg">
+  <img align="center" alt="Colaborar" height="25px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uxdesigner.jpg">
+  <img align="center" alt="Colaborar" height="25px" src="https://github.com/Brakinveste/Brakinveste/blob/main/icon-uidesigner.jpg">
  </div> 
 <div align="center"> 
   <hr size="10">
