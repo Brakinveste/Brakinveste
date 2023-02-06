@@ -34,10 +34,10 @@
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
- </div>
- 
+</div>
 <br>
- 
+  <div align="center" style="width: 70px; color: white;">Design</div>
+  
 <div align="center"> 
   <hr size="10">
   <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
