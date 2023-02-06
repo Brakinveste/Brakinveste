@@ -36,8 +36,9 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div>
 <br>
-  <div align="center" style="width: 70px; color: white;">Design</div>
-  
+<div>  
+  <div align="center" style="width: 70px; color: white; color-background: rgb(90, 0, 131);">Design</div>
+ </div> 
 <div align="center"> 
   <hr size="10">
   <img align="center" alt="Colaborar" height="300em" src="https://github.com/Brakinveste/Brakinveste/blob/main/colaborar.jpg">
